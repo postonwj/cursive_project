@@ -1,0 +1,2 @@
+reportlab==3.6.12
+fonttools==4.58.5
